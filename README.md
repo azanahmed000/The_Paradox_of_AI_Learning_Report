@@ -32,8 +32,8 @@ It concludes by proposing an **AI Literacy Framework** focused on balance, criti
 
 
 ----
-##For reading full report use given links:
+For reading full report use given links:
 . Academia-edu: https://lnkd.in/e4yJnb9m
 . Medium :https://lnkd.in/eXrksPFU
 . Drive:https:https://lnkd.in/evWtdsTu
-. Github:https://lnkd.in/eyu-NwuK
+
